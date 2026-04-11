@@ -1,0 +1,3 @@
+Product : iPhone 15
+Price : Rs. 79999
+Stock : Available
